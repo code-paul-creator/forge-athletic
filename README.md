@@ -1,4 +1,4 @@
-# forge-athletic# Forge Athletic — Gym Website
+# Forge Athletic — Gym Website
 
 A static, no-build website (plain HTML/CSS/JS) for a strength & conditioning gym.
 No frameworks, no dependencies — open `index.html` in a browser and it works.
